@@ -1,0 +1,11 @@
+1st account system where you log in , out and sign up , while having encryption on it , also with capcha 1 day
+2nd search bar , in which you can search for people , click on them to make a get request to /people with parameters about username , in which you will find a profile page 1-2 days 
+4th make a posting system where you make a simple post with text , you can like the post , share it or comment on it 1 day or less
+5th make a feature where you can apply to the project , put your experties on it so the author chooses you 1 day
+6th counting contributers , and putting them on the post's data less then one day 
+7th email style messages between contributers 2 days 
+8th styling , everything to this point was bare metal HTML , in this step you figure out the styling for everything  3 days or 2 days 
+9th settings that you can read using cookies 2 days 
+10th reporting bad users , bad posts etc , it pushes the reports to me , so that i can delete the problematic users 1 day 
+11th finishing touches , shouldn't take long , 2 days 
+
